@@ -1,0 +1,16 @@
+{
+  "name": "dblab",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Sample demo of using mongodb with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bhargav Anand",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^2.1.1",
+    "mongojs": "^0.18.0"
+  }
+}
