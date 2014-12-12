@@ -22,3 +22,7 @@ npm install && npm start
 ```
 
 Thats it, a database called dbmslab is created in mongo.
+
+## Screenshot
+
+![https://s3-us-west-2.amazonaws.com/github.whoisandie.com/dbms+lab.png](A screenshot of how the program runs)
