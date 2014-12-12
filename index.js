@@ -29,3 +29,5 @@ db.users.insert(records.users(), function(err, users){
 
   db.close();
 });
+
+console.log('\nDatabase seeded. Enjoy !');
