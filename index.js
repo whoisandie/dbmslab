@@ -25,9 +25,8 @@ db.users.insert(records.users(), function(err, users){
 
   db.groups.insert(records.groups(ids), function(err, groups){
     console.log('Seeded groups collection');
+    console.log('\nDatabase seeded. Enjoy !');
   });
 
   db.close();
 });
-
-console.log('\nDatabase seeded. Enjoy !');
